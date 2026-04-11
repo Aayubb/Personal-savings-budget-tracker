@@ -1,0 +1,110 @@
+Month,Category,Type,Amount,Notes
+2024-01,Salary,Income,45000,Monthly salary
+2024-01,Freelance,Income,8000,Tutoring income
+2024-01,Rent,Expense,12000,House rent
+2024-01,Food,Expense,6500,Groceries and meals
+2024-01,Transport,Expense,2200,Bus and fuel
+2024-01,Utilities,Expense,1800,Electricity and water
+2024-01,Health,Expense,1500,Gym membership
+2024-01,Entertainment,Expense,1200,Eating out and leisure
+2024-01,Savings,Savings,27800,Monthly savings deposit
+2024-02,Salary,Income,45000,Monthly salary
+2024-02,Freelance,Income,5000,Tutoring income
+2024-02,Rent,Expense,12000,House rent
+2024-02,Food,Expense,7200,Groceries and meals
+2024-02,Transport,Expense,2500,Bus and fuel
+2024-02,Utilities,Expense,2100,Electricity and water
+2024-02,Health,Expense,1500,Gym membership
+2024-02,Entertainment,Expense,900,Eating out and leisure
+2024-02,Savings,Savings,23800,Monthly savings deposit
+2024-03,Salary,Income,45000,Monthly salary
+2024-03,Freelance,Income,12000,Tutoring income
+2024-03,Rent,Expense,12000,House rent
+2024-03,Food,Expense,6800,Groceries and meals
+2024-03,Transport,Expense,3100,Bus and fuel
+2024-03,Utilities,Expense,1600,Electricity and water
+2024-03,Health,Expense,1500,Gym membership
+2024-03,Entertainment,Expense,2000,Race entry fee
+2024-03,Savings,Savings,29000,Monthly savings deposit
+2024-04,Salary,Income,45000,Monthly salary
+2024-04,Freelance,Income,6500,Tutoring income
+2024-04,Rent,Expense,12000,House rent
+2024-04,Food,Expense,7500,Groceries and meals
+2024-04,Transport,Expense,2800,Bus and fuel
+2024-04,Utilities,Expense,1900,Electricity and water
+2024-04,Health,Expense,2500,Sports gear
+2024-04,Entertainment,Expense,1100,Eating out and leisure
+2024-04,Savings,Savings,23700,Monthly savings deposit
+2024-05,Salary,Income,48000,Salary increment
+2024-05,Freelance,Income,9000,Tutoring income
+2024-05,Rent,Expense,12000,House rent
+2024-05,Food,Expense,6200,Groceries and meals
+2024-05,Transport,Expense,2400,Bus and fuel
+2024-05,Utilities,Expense,2200,Electricity and water
+2024-05,Health,Expense,1500,Gym membership
+2024-05,Entertainment,Expense,800,Eating out and leisure
+2024-05,Savings,Savings,31900,Monthly savings deposit
+2024-06,Salary,Income,48000,Monthly salary
+2024-06,Freelance,Income,7500,Tutoring income
+2024-06,Rent,Expense,12000,House rent
+2024-06,Food,Expense,,Missing entry
+2024-06,Transport,Expense,2600,Bus and fuel
+2024-06,Utilities,Expense,1700,Electricity and water
+2024-06,Health,Expense,1500,Gym membership
+2024-06,Entertainment,Expense,1500,Eating out and leisure
+2024-06,Savings,Savings,35700,Monthly savings deposit
+2024-07,Salary,Income,48000,Monthly salary
+2024-07,Freelance,Income,10000,Tutoring income
+2024-07,Rent,Expense,12000,House rent
+2024-07,Food,Expense,7800,Groceries and meals
+2024-07,Transport,Expense,3500,Bus and fuel
+2024-07,Utilities,Expense,2400,Electricity and water
+2024-07,Health,Expense,3000,Triathlon gear
+2024-07,Entertainment,Expense,1800,Eating out and leisure
+2024-07,Savings,Savings,27500,Monthly savings deposit
+2024-07,Salary,Income,48000,Duplicate entry error
+2024-08,Salary,Income,48000,Monthly salary
+2024-08,Freelance,Income,4500,Tutoring income
+2024-08,Rent,Expense,12000,House rent
+2024-08,Food,Expense,6900,Groceries and meals
+2024-08,Transport,Expense,2100,Bus and fuel
+2024-08,Utilities,Expense,1800,Electricity and water
+2024-08,Health,Expense,1500,Gym membership
+2024-08,Entertainment,Expense,700,Eating out and leisure
+2024-08,Savings,Savings,28500,Monthly savings deposit
+2024-09,Salary,Income,48000,Monthly salary
+2024-09,Freelance,Income,11000,Tutoring income
+2024-09,Rent,Expense,12000,House rent
+2024-09,Food,Expense,7300,Groceries and meals
+2024-09,Transport,Expense,2700,Bus and fuel
+2024-09,Utilities,Expense,1900,Electricity and water
+2024-09,Health,Expense,1500,Gym membership
+2024-09,Entertainment,Expense,2200,Marathon travel
+2024-09,Savings,Savings,31400,Monthly savings deposit
+2024-10,Salary,Income,48000,Monthly salary
+2024-10,Freelance,Income,8000,Tutoring income
+2024-10,Rent,Expense,12000,House rent
+2024-10,Food,Expense,6600,Groceries and meals
+2024-10,Transport,Expense,2300,Bus and fuel
+2024-10,Utilities,Expense,,Missing entry
+2024-10,Health,Expense,1500,Gym membership
+2024-10,Entertainment,Expense,1000,Eating out and leisure
+2024-10,Savings,Savings,32600,Monthly savings deposit
+2024-11,Salary,Income,48000,Monthly salary
+2024-11,Freelance,Income,6000,Tutoring income
+2024-11,Rent,Expense,12000,House rent
+2024-11,Food,Expense,7100,Groceries and meals
+2024-11,Transport,Expense,2500,Bus and fuel
+2024-11,Utilities,Expense,2000,Electricity and water
+2024-11,Health,Expense,1500,Gym membership
+2024-11,Entertainment,Expense,1300,Eating out and leisure
+2024-11,Savings,Savings,27700,Monthly savings deposit
+2024-12,Salary,Income,48000,Monthly salary
+2024-12,Freelance,Income,15000,Year-end bonus
+2024-12,Rent,Expense,12000,House rent
+2024-12,Food,Expense,9500,Festive season groceries
+2024-12,Transport,Expense,3200,Bus and fuel
+2024-12,Utilities,Expense,2500,Electricity and water
+2024-12,Health,Expense,2000,Year-end health checkup
+2024-12,Entertainment,Expense,3500,Dashain and festive spending
+2024-12,Savings,Savings,29300,Monthly savings deposit
