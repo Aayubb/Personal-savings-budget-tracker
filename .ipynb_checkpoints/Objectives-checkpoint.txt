@@ -1,0 +1,16 @@
+## Project Objectives
+
+1. Build a real-world personal finance dataset using CSV and simulate common data quality issues such as missing values and duplicate entries.
+2. Load and inspect raw financial data using pandas to understand its structure, shape, and data types.
+3. Clean the dataset by identifying and handling null values using median imputation and removing duplicate rows.
+4. Convert and format data types correctly, including parsing date columns for time-series analysis.
+5. Calculate monthly income, expense, and savings totals by grouping and aggregating data using pandas.
+6. Derive a monthly savings rate percentage to measure financial discipline over time.
+7. Perform a category-wise expense breakdown to identify the largest spending areas across the year.
+8. Engineer a new running savings balance column to track cumulative financial growth month by month.
+9. Visualize expense patterns using a bar chart grouped by spending category.
+10. Represent savings versus total spending proportions using a pie chart.
+11. Plot cumulative savings growth over 12 months using a line chart with annotations.
+12. Combine all three visualizations into a single professional financial summary dashboard.
+13. Generate an automated summary report in Markdown format with key metrics, findings, and recommendations — written as a client-facing bank document.
+14. Demonstrate end-to-end data analysis skills — from raw CSV to cleaned data, analysis, visualization, and reporting — relevant to banking and financial services.
